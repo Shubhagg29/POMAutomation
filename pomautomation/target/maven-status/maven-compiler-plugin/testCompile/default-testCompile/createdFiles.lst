@@ -1,0 +1,3 @@
+com/openmrs/qa/testcases/RegisterPatientPageTest.class
+com/openmrs/qa/testcases/LoginPageTest.class
+com/openmrs/qa/testcases/HomePageTest.class

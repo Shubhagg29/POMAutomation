@@ -1,0 +1,8 @@
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/base/TestBase.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/extentReportListener/ExtentReporterNG.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/util/TestUtil.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/pages/LoginPage.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/pages/RegisterPatientPage.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/pages/HomePage.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/util/WebEventListener.java
+/Users/shubhagg/automation/pomautomation/src/main/java/com/openmrs/qa/pages/PatientDetailPage.java

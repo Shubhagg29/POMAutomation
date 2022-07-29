@@ -1,0 +1,8 @@
+com/openmrs/qa/pages/LoginPage.class
+com/openmrs/qa/pages/PatientDetailPage.class
+com/openmrs/qa/util/WebEventListener.class
+com/openmrs/qa/pages/HomePage.class
+com/openmrs/qa/pages/RegisterPatientPage.class
+com/openmrs/qa/base/TestBase.class
+com/openmrs/qa/util/TestUtil.class
+com/openmrs/qa/extentReportListener/ExtentReporterNG.class
